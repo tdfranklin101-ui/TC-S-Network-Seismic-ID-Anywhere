@@ -1,0 +1,8 @@
+{
+  "repoName": "TC-S-Network-Seismic-ID-Anywhere",
+  "slug": "seismic-id-anywhere",
+  "title": "Seismic ID Anywhere",
+  "role": "Seismic event tracker and risk visualizer tied to TC-S zones.",
+  "kind": "app",
+  "createdAt": "2025-11-22T17:30:17.985Z"
+}
